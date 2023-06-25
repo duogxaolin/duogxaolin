@@ -14,7 +14,6 @@
 
 - 🌱 I’m currently learning **Hanoi Open University**
 
-- 👯 I’m looking to collaborate on [jtrain](https://duhocjtrain.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/duogxaolin](https://github.com/duogxaolin)
 
@@ -25,8 +24,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/duogxaolin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="duogxaolin" height="30" width="40" /></a>
-<a href="https://t.me/duogxaolin" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=63306&format=svg" alt="duogxaolin" height="30" width="40" /></a>
-<a href="https://zalo.me/duogxaolin" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=0m71tmRjlxEe&format=svg" alt="duogxaolin" height="30" width="40" /></a>
+<a href="https://t.me/duogxaolin" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=63306&format=svg" alt="duogxaolin" height="40" width="40" /></a>
+<a href="https://zalo.me/duogxaolin" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=0m71tmRjlxEe&format=svg" alt="duogxaolin" height="40" width="40" /></a>
 <a href="https://fb.com/duogxaolin.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="duogxaolin.dev" height="30" width="40" /></a>
 <a href="https://instagram.com/duogxaolin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duogxaolin" height="30" width="40" /></a>
 <a href="https://discord.gg/duogxaolin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="duogxaolin" height="30" width="40" /></a>
