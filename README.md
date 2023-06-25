@@ -1,6 +1,6 @@
 ### Hi fellows 👋
 
-- 🔭 I’m currently working on [J2TeamNNL]
+- 🔭 My name is Nguyen Thai Duong
 - 💬 Ask me about every thing
 - 📫 How to reach me: [Facebook]
 - ⚡ Fun fact: I share... a lot!
@@ -50,22 +50,10 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 43 Public Repositories 
+> 📜 15 Public Repositories 
  > 
-> 🔑 1 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Tuesday                  214 commits         █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-Wednesday                123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Thursday                 184 commits         █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-Friday                   115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Saturday                 122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Sunday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-```
-
 
 
  Last Updated on 25/06/2023 09:38:12 UTC
