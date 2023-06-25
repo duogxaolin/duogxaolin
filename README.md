@@ -81,6 +81,17 @@
 
 </p>
 
+**🐱 My GitHub Data** 
+
+> 📦 22.1 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 25 Private Repositories 
+ > 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duogxaolin" alt="duogxaolin" /></a> </p>
 
 
