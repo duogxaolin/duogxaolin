@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Thai Duong</h1>
 <h3 align="center">A passionate developer from VietNam</h3>
 ### Spotify Playing 🎧
+
 [<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
 
 ---
