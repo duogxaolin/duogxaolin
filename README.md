@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nguyen Thai Duong</h1>
 <h3 align="center">A passionate developer from VietNam</h3>
+### Spotify Playing 🎧
+[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
 
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duogxaolin&label=Profile%20views&color=0e75b6&style=flat" alt="duogxaolin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duogxaolin" alt="duogxaolin" /></a> </p>
